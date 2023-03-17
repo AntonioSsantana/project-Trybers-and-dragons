@@ -1,6 +1,9 @@
 # Project Trybers and Dragons 🐉
 
- ##### Nesse projeto eu fui responsável em desenvolver os seguintes arquivos:
+### Objetivo:
+Aplicar os princípios da arquitetura SOLID e os princípios de POO em uma estrutura de jogos de interpretação de papéis, mais conhecidos como jogos RPG.
+
+##### Nesse projeto eu fui responsável em desenvolver os seguintes arquivos:
 
 <details><summary>src</summary>
 <p>
