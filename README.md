@@ -6,9 +6,6 @@ Este é um projeto de jogos de interpretação de papéis (RPG) chamado "Trybers
 
 O projeto utiliza as seguintes dependências:
 
-- "express": "4.17.1"
-- "express-async-errors": "3.1.1"
-
 ```json
 "dependencies": {
     "express": "4.17.1",
@@ -17,25 +14,6 @@ O projeto utiliza as seguintes dependências:
 ``` 
 
 ## Dependências de Desenvolvimento
-
-- "@jest/test-sequencer": "27.4.6"
-- "@types/express": "4.17.13"
-- "@types/jest": "27.0.2"
-- "@types/node": "16.11.7"
-- "@typescript-eslint/eslint-plugin": "5.3.1"
-- "@typescript-eslint/parser": "5.3.1"
-- "eslint": "7.32.0"
-- "eslint-config-airbnb-base": "15.0.0"
-- "eslint-config-airbnb-typescript": "15.0.0"
-- "eslint-plugin-editorconfig": "3.2.0"
-- "eslint-plugin-import": "2.25.3"
-- "eslint-plugin-mocha": "9.0.0"
-- "eslint-plugin-sonarjs": "0.10.0"
-- "jest": "27.3.1"
-- "nodemon": "2.0.14"
-- "ts-jest": "27.0.7"
-- "ts-node-dev": "1.1.8"
-- "typescript": "4.4.3"
 
 ```json
 "devDependencies": {
